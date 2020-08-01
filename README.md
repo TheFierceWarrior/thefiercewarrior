@@ -4,6 +4,7 @@
 <div align="center" width="50">
 
 <code>I'm an IT student. 😎</code><br>
+
 <code>I love programming. ❤</code><br>
 
 <code>I spend my free time on watching anime. 😇</code>
