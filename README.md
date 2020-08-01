@@ -1,13 +1,12 @@
 <div align="center">
-<h2>Hi there <img src="https://github.com/thefiercewarrior/thefiercewarrior/blob/master/gifs/Hi.gif" width="30px">, My Name Is The Fierce Warrior</h2>
+<h2>Hey there <img src="https://github.com/thefiercewarrior/thefiercewarrior/blob/master/gifs/Hi.gif" width="30px">, My Name Is The Fierce Warrior</h2>
 
 <div align="center" width="50">
 
-<code>I'm an IT student. 😎</code>
-<code>I love programming. ❤</code>
-<code>Anime lover. 😉</code>
+<code>I'm an IT student. 😎</code><br>
+<code>I love programming. ❤</code><br>
 
-<code>I spend my free time on <a href="https://t.me/thefiercewarrior">Telegram</a>. 😇</code>
+<code>I spend my free time on watching anime. 😇</code>
 
 <img src="https://github.com/thefiercewarrior/thefiercewarrior/blob/master/gifs/coding.gif" alt="coding ?">
 
