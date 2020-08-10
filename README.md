@@ -7,7 +7,7 @@
 
 <code>I love programming. ❤</code><br>
 
-<code>I spend my free time on watching anime. 😇</code>
+<code>I spend my free time watching anime. 😇</code>
 
 <img src="https://github.com/thefiercewarrior/thefiercewarrior/blob/master/gifs/coding.gif" alt="coding ?">
 
